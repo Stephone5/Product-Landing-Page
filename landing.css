@@ -1,0 +1,14 @@
+
+#navbar {
+  background-color: red;
+  height: 5%;
+  width: auto;
+  position: fixed,
+  align-items: center;
+}
+.nav-link {
+  height: 80%;
+  width: 2em;
+  background-color: black;
+  color: red;
+}
